@@ -49,7 +49,7 @@ function CreateAccount(){
     <div id="actCard">
     <div  id="card2">
       <Card
-        backgroundColor = "primary"
+        bgcolor = "primary"
         header="Create Account"
         status={status}
         body={show ? (  
